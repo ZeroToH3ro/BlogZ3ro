@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1z02sJ4hJ7E=",
+  "success": true,
+  "projectFilePath": "/Users/zero/RiderProjects/BlogZ3ro/Blog.Services/Blog.Services.csproj",
+  "expectedPackageFiles": [
+    "/Users/zero/.nuget/packages/microsoft.identitymodel.abstractions/7.1.2/microsoft.identitymodel.abstractions.7.1.2.nupkg.sha512",
+    "/Users/zero/.nuget/packages/microsoft.identitymodel.logging/7.1.2/microsoft.identitymodel.logging.7.1.2.nupkg.sha512",
+    "/Users/zero/.nuget/packages/microsoft.identitymodel.tokens/7.1.2/microsoft.identitymodel.tokens.7.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

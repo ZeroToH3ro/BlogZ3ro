@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5KJuuqlWw5M=",
+  "dgSpecHash": "sj90dnAVGmw=",
   "success": true,
   "projectFilePath": "/Users/zero/RiderProjects/BlogZ3ro/Blog.Models/Blog.Models.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/zero/.nuget/packages/microsoft.netcore.app.ref/8.0.11/microsoft.netcore.app.ref.8.0.11.nupkg.sha512",
+    "/Users/zero/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.11/microsoft.aspnetcore.app.ref.8.0.11.nupkg.sha512"
+  ],
   "logs": []
 }
